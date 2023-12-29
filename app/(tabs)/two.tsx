@@ -6,7 +6,7 @@ import { Text, View } from '../../components/Themed';
 export default function TabTwoScreen() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Ica Jamet</Text>
+      <Text style={styles.title}>Tab Two</Text>
     </View>
   );
 }
